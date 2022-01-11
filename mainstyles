@@ -1,0 +1,7 @@
+.imgContainer{
+    float:left;
+}
+
+.centeralign{
+    text-align: center;
+}

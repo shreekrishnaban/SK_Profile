@@ -1,0 +1,22 @@
+.imgContainer{
+    float:left;
+}
+
+.centeralign{
+    text-align: center;
+}
+
+.clearfloat{
+   clear: both;
+}
+
+.courses ul > :first-child {
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+  }
+
+  .courses .running {
+ background-color: grey;
+    
+  }
