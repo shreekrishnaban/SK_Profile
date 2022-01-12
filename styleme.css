@@ -18,5 +18,22 @@
 
   .courses .running {
  background-color: grey;
+ color: white;
     
+  }
+
+  a{
+      text-decoration: none;
+  }
+  
+  a:hover{
+      text-decoration: underline;
+  }
+
+  p span.drop-caps {
+    color: rgb(28, 1, 10); 
+    font-family: Georgia;
+    font-size: 1.5em;
+    float: left;
+    line-height: 1;
   }
